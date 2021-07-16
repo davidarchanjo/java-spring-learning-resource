@@ -8,7 +8,7 @@ List of sites I use in general for searching Java and Spring related stuffs. In 
 
 - [JournalDev](https://www.journaldev.com)
 
-- [TutorialsPoint](https://lnkd.in/eFS2aGj)
+- [TutorialsPoint](https://www.tutorialspoint.com)
 
 - [JavaPoint](https://www.javatpoint.com)
 
