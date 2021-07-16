@@ -1,6 +1,6 @@
 ![banner](./assets/banner.png)
 ## Overview
-List of sites I use in general for searching Java and Spring related stuffs. In general those places are where I end up finding on what I need, e.g. how to implement something specific or how to fix a bug(that's what we do in general.. am I lying?? 😅).
+List of sites I use in general for searching Java and Spring related stuffs. In general those places are where I end up finding on what I need, e.g. how to implement something specific or how to fix a bug (that's what we do in general.. am I lying?? 😅).
 
 - [Baeldung](https://www.baeldung.com)
 
